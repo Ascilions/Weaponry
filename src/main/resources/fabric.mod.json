@@ -2,10 +2,10 @@
 	"schemaVersion": 1,
 	"id": "asc_firstmod",
 	"version": "${version}",
-	"name": "asc_firstmod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Ascilions! FirstMod",
+	"description": "My first mod. How did you get it?",
 	"authors": [
-		"Me!"
+		"Ascilion"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
